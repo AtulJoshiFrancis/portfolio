@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}html, body{
+    height: auto;
+    width: 100%;
+}body{
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+:root {
+    --primary-color: #e3f6f5;       /* Soft Cyan Blue */
+    --secondary-color: #272343;     /* Deep Indigo */
+    --tertiary-color: #bae8e8;      /* Light Aqua Blue */
+    --support-color: #2d545e;       /* Muted Teal */
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: var(--tertiary-color);
+}
+
+[class^="card"] {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 30px;
+    border-radius: 30px;
+    height: calc(50vh - 30px);
+}
+
+.card-80{
+    flex: 0 0 calc(80% - 10px);
+}
+
+.heading{
+    margin-bottom: 10px;
+}
+
+.card-20{
+    flex: 0 0 calc(20% - 10px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav-btn{
+    background-color: var(--tertiary-color);
+    color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+}
+
+.nav-btn:hover{
+    background-color: var(--support-color);
+    color: var(--primary-color);
+}
+
+.card-50{
+    flex: 0 0 calc(50% - 10px);
+}
+
+.rack{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.rack-content{
+    background-color: var(--support-color);
+    color: var(--primary-color);
+    padding: 10px;
+    border-radius: 10px;
+}
