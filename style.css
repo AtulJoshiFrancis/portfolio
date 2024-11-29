@@ -19,47 +19,47 @@
 
 @font-face {
     font-family: "euclid-regular";
-    src: url('/portfolio/Euclid\ Circular\ A\ Regular.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Regular.ttf');
 }
 
 @font-face {
     font-family: "euclid-bold";
-    src: url('/portfolio/Euclid\ Circular\ A\ Bold.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Bold.ttf');
 }
 
 @font-face {
     font-family: "euclid-bold-italic";
-    src: url('/portfolio/Euclid\ Circular\ A\ Bold\ Italic.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Bold\ Italic.ttf');
 }
 
 @font-face {
     font-family: "euclid-italic";
-    src: url('/portfolio/Euclid\ Circular\ A\ Italic.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Italic.ttf');
 }
 
 @font-face {
     font-family: "euclid-light-italic";
-    src: url('/portfolio/Euclid\ Circular\ A\ Light\ Italic.ttf.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Light\ Italic.ttf.ttf');
 }
 
 @font-face {
     font-family: "euclid-light";
-    src: url('/portfolio/Euclid\ Circular\ A\ Light.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Light.ttf');
 }
 
 @font-face {
     font-family: "euclid-medium";
-    src: url('/portfolio/Euclid\ Circular\ A\ Medium.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Medium.ttf');
 }
 
 @font-face {
     font-family: "euclid-medium-italic";
-    src: url('/portfolio/Euclid\ Circular\ A\ Medium\ Italic.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ Medium\ Italic.ttf');
 }
 
 @font-face {
     font-family: "euclid-semi-bold";
-    src: url('/portfolio/Euclid\ Circular\ A\ SemiBold\ Italic.ttf');
+    src: url('/portfolio/fonts/Euclid\ Circular\ A\ SemiBold\ Italic.ttf');
 }
 
 .header-container{
