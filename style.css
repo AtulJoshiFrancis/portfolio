@@ -230,10 +230,6 @@ nav {
     padding: 0 60px;
   }
 
-  .heading-bold{
-    font-size: 10vw;
-  }
-
 
 }
 
@@ -244,6 +240,10 @@ nav {
 
   .first-sub-container {
     padding: 40px 20px;
+  }
+
+  .heading-bold {
+    font-size: 28px;
   }
 
   .first-content {
