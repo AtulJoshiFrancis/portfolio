@@ -226,6 +226,10 @@ nav {
     cursor: pointer;
   }
 
+  .heading-bold{
+    font-size: 10vw;
+  }
+
   .first-sub-container {
     padding: 0 60px;
   }
@@ -240,10 +244,6 @@ nav {
 
   .first-sub-container {
     padding: 40px 20px;
-  }
-
-  .heading-bold {
-    font-size: 28px;
   }
 
   .first-content {
